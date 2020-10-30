@@ -1,0 +1,31 @@
+{
+    "name": "Kumpul Tugas",
+    "short_name": "TugasKoe",
+    "description": "Aplikasi PWA Kumpul Tugas Sekolah",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ff7043",
+    "theme_color": "#ff7043",
+    "icons": [
+        {
+            "src": "icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
